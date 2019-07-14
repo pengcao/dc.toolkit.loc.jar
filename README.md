@@ -1,2 +1,2 @@
 # dc.toolkit.loc.jar
- address translator
+地址转换器，将文本地址转换成经纬度，通过经纬度获取地址名称。
